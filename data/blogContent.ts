@@ -212,3 +212,190 @@
     </em></p>
   `
 },
+
+
+// ===============================
+// BLOG 6: Mumbai to Lonavala Travel Guide
+// Purpose: Weekend getaway (real driving feel)
+// SEO Intent: Informational + local experience
+// AdSense Priority: HIGH
+// ===============================
+{
+  id: '2',
+  title: 'Mumbai to Lonavala Travel Guide (Best Route, Timing & Real Tips)',
+  slug: 'mumbai-lonavala-travel',
+  excerpt: 'I have driven from Mumbai to Lonavala more times than I can count. This guide covers the best timing, traffic mistakes, and stops that actually matter.',
+  category: 'Weekend Getaways',
+  author: 'City Explorer',
+  date: 'October 18, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=2',
+  keywords: ['Mumbai to Lonavala drive', 'Mumbai Pune Expressway', 'Lonavala road trip'],
+  content: `
+    <h2>Why This Drive Is Popular</h2>
+    <p>
+      Mumbai to Lonavala is one of the easiest and most rewarding short road trips. The expressway is smooth, but timing makes all the difference.
+    </p>
+
+    <h2>Best Time to Start</h2>
+    <p>
+      Leave Mumbai before 7 AM. After that, traffic builds up fast, especially on weekends. Evening returns are always slower.
+    </p>
+
+    <h2>Expressway Reality</h2>
+    <p>
+      Speed cameras are active, and lane discipline is important. During monsoon, fog and low visibility are common near Khandala.
+    </p>
+
+    <p><em>
+      This guide is based on personal driving experience. BookMyCar.live does not offer travel bookings or rentals.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 7: Top 10 Places to Visit in Delhi by Car
+// Purpose: City guide + parking awareness
+// SEO Intent: Informational
+// AdSense Priority: MEDIUM-HIGH
+// ===============================
+{
+  id: '3',
+  title: 'Top 10 Places to Visit in Delhi by Car (With Parking Tips)',
+  slug: 'delhi-sightseeing-car',
+  excerpt: 'Driving around Delhi is manageable if you plan smartly. This list focuses on places that are actually car-friendly.',
+  category: 'City Guides',
+  author: 'Delhi Insider',
+  date: 'October 20, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=3',
+  keywords: ['Delhi sightseeing by car', 'Delhi parking tips', 'Delhi travel guide'],
+  content: `
+    <h2>Is Delhi Car-Friendly?</h2>
+    <p>
+      Delhi traffic can be overwhelming, but many major attractions have decent parking if you arrive early.
+    </p>
+
+    <h2>My Top Picks</h2>
+    <ul>
+      <li>India Gate (early morning only)</li>
+      <li>Qutub Minar complex</li>
+      <li>Akshardham Temple</li>
+      <li>Lodhi Garden</li>
+    </ul>
+
+    <h2>Parking Advice</h2>
+    <p>
+      Avoid roadside parking. Use official lots or metro parking zones to prevent challans.
+    </p>
+
+    <p><em>
+      This article is for travel guidance only. BookMyCar.live does not provide transport services.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 8: Bangalore Weekend Road Trips
+// Purpose: Short-distance road trip inspiration
+// SEO Intent: Informational
+// AdSense Priority: MEDIUM
+// ===============================
+{
+  id: '4',
+  title: 'Best Weekend Road Trips from Bangalore (Under 200 km)',
+  slug: 'bangalore-weekend-trips',
+  excerpt: 'Living in Bangalore taught me that great road trips don’t need long leaves. These are my tried-and-tested weekend drives.',
+  category: 'Road Trips',
+  author: 'South India Traveller',
+  date: 'October 22, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=4',
+  keywords: ['Bangalore road trips', 'weekend drives', 'Nandi Hills'],
+  content: `
+    <h2>Why Bangalore Is Perfect for Road Trips</h2>
+    <p>
+      Highways around Bangalore are well connected, making spontaneous weekend drives easy.
+    </p>
+
+    <h2>My Favorite Routes</h2>
+    <ul>
+      <li>Nandi Hills (early sunrise drive)</li>
+      <li>Mysore via NICE Road</li>
+      <li>Chikmagalur for coffee lovers</li>
+    </ul>
+
+    <p><em>
+      Destinations listed are based on personal travel experience. No bookings are offered.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 9: Goa 3-Day Road Trip Plan
+// Purpose: Itinerary-based travel content
+// SEO Intent: Informational
+// AdSense Priority: HIGH
+// ===============================
+{
+  id: '5',
+  title: 'Goa 3-Day Road Trip Plan (North vs South – Honest Advice)',
+  slug: 'goa-3-day-itinerary',
+  excerpt: 'Goa feels very different depending on where you drive. This 3-day plan is based on real on-road experience.',
+  category: 'Itineraries',
+  author: 'Beach Lover',
+  date: 'October 25, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=5',
+  keywords: ['Goa road trip', 'North Goa vs South Goa', 'Goa itinerary'],
+  content: `
+    <h2>Day 1: Arrival & Local Driving</h2>
+    <p>
+      Roads in Goa are narrow. Avoid aggressive driving and follow local speed limits.
+    </p>
+
+    <h2>North vs South Goa</h2>
+    <p>
+      North Goa is lively but crowded. South Goa offers calmer drives and easier parking.
+    </p>
+
+    <p><em>
+      This itinerary is informational only. BookMyCar.live does not arrange travel services.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 10: How to Prepare Your Car for a Road Trip
+// Purpose: Practical car care guide
+// SEO Intent: Informational
+// AdSense Priority: HIGH
+// ===============================
+{
+  id: '7',
+  title: 'How to Prepare Your Car for a Road Trip (Mechanic-Approved Basics)',
+  slug: 'prepare-car-road-trip',
+  excerpt: 'Over the years, I learned that proper car prep saves time, money, and stress. These checks actually matter.',
+  category: 'Car Care',
+  author: 'Mechanic Mike',
+  date: 'November 1, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=7',
+  keywords: ['car preparation', 'road trip car check', 'vehicle maintenance'],
+  content: `
+    <h2>Why Preparation Matters</h2>
+    <p>
+      Breakdowns rarely happen without warning. Most signs are ignored before the trip.
+    </p>
+
+    <h2>What I Always Check</h2>
+    <ul>
+      <li>Engine oil and coolant levels</li>
+      <li>Brake condition</li>
+      <li>Battery health</li>
+    </ul>
+
+    <p><em>
+      This guide is educational only. BookMyCar.live does not provide mechanical services.
+    </em></p>
+  `
+},
