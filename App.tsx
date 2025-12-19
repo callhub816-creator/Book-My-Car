@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Rules from './pages/Rules';
 import { BlogList, BlogPostView } from './pages/Blog';
-import { About, Contact, Privacy, Terms } from './pages/StaticPages';
+import { About, Contact, Privacy, Terms, Disclaimer } from './pages/StaticPages';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
