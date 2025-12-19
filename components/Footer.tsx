@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
               <span className="text-xl font-bold">BookMyCar.live</span>
             </Link>
             <p className="text-gray-400 text-sm">
-              Your trusted companion for road trips, car rentals, and travel safety advice in India.
+              Your trusted companion for road trips, rental awareness, and travel safety advice in India.
             </p>
           </div>
 
