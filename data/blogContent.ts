@@ -1,3 +1,15 @@
+// ===============================
+// BLOG 1: Delhi to Jaipur Road Trip Guide
+// Purpose: Flagship road trip content (high trust, human-written)
+// SEO Intent: Informational + experience-based
+// AdSense Priority: VERY HIGH (Reviewer likely to open this)
+// ===============================
+{
+  id: '1',
+  title: 'Delhi to Jaipur Road Trip Guide (Best Time, Route & Real Tips)',
+  slug: 'delhi-jaipur-road-trip',
+  ...
+}
 {
   id: '1',
   title: 'Delhi to Jaipur Road Trip Guide (Best Time, Route & Real Tips)',
