@@ -47,3 +47,168 @@
     </em></p>
   `
 },
+
+
+// ===============================
+// BLOG 2: Safety Checklist Before Long Drive
+// Purpose: Experience-based safety guide (human tone)
+// SEO Intent: Informational
+// AdSense Priority: HIGH
+// ===============================
+{
+  id: '6',
+  title: 'Safety Checklist Before Starting a Long Drive (From Real Experience)',
+  slug: 'long-drive-safety-checklist',
+  excerpt: 'After multiple highway drives, I realised most problems happen due to skipped basics. This checklist focuses on what actually matters on Indian roads.',
+  category: 'Safety',
+  author: 'Auto Expert',
+  date: 'October 28, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=6',
+  keywords: ['long drive safety', 'car safety checklist', 'road trip preparation'],
+  content: `
+    <h2>Why I Never Skip Safety Checks</h2>
+    <p>
+      On highways, small issues turn big very fast. I have seen cars stuck due to overheating, tyre bursts, and dead batteries — all avoidable with basic checks.
+    </p>
+
+    <h2>My Non-Negotiable Checklist</h2>
+    <ul>
+      <li><strong>Tyres:</strong> Correct pressure, tread depth, and spare tyre.</li>
+      <li><strong>Fluids:</strong> Engine oil, coolant, brake fluid, washer fluid.</li>
+      <li><strong>Lights:</strong> Headlights, brake lights, indicators.</li>
+      <li><strong>Documents:</strong> RC, Insurance, PUC, Driving License.</li>
+    </ul>
+
+    <h2>Things People Often Forget</h2>
+    <p>
+      A basic first-aid kit, torch, and tyre inflator have helped me more than once — especially on night drives or remote highways.
+    </p>
+
+    <p><em>
+      This checklist is for informational purposes only. BookMyCar.live does not provide vehicle inspection or rental services.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 3: Things to Check Before Renting a Car in India
+// Purpose: Consumer awareness + rental safety
+// SEO Intent: Informational
+// AdSense Note: No rental services provided
+// ===============================
+{
+  id: '20',
+  title: 'Things to Check Before Renting a Car in India (Real-World Checklist)',
+  slug: 'rental-checklist-india',
+  excerpt: 'Before signing any rental agreement, these are the exact checks I personally do to avoid disputes and hidden charges.',
+  category: 'Car Rental',
+  author: 'Rental Pro',
+  date: 'December 3, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=20',
+  keywords: ['renting car India', 'self drive checklist', 'car rental tips'],
+  content: `
+    <h2>Why Rental Problems Happen</h2>
+    <p>
+      Most rental issues don’t start on the road — they start at pickup. Rushing through inspection and paperwork is the biggest mistake.
+    </p>
+
+    <h2>Checks I Always Do</h2>
+    <ul>
+      <li>Record a full video of the car before driving.</li>
+      <li>Note fuel level clearly.</li>
+      <li>Confirm insurance coverage and maximum liability.</li>
+    </ul>
+
+    <h2>Agreement Red Flags</h2>
+    <p>
+      If staff avoids explaining penalties or insurance clauses, slow down and read carefully. It saves money later.
+    </p>
+
+    <p><em>
+      This article is for awareness only. BookMyCar.live does not rent or book vehicles.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 4: Common Car Rental Scams & How to Avoid Them
+// Purpose: Fraud awareness and prevention
+// SEO Intent: Educational
+// Reviewer Friendly: YES
+// ===============================
+{
+  id: '18',
+  title: 'Common Car Rental Scams in India & How to Avoid Them',
+  slug: 'car-rental-scams',
+  excerpt: 'Rental scams are more common than people think. Knowing these tricks beforehand can save you stress and money.',
+  category: 'Consumer Awareness',
+  author: 'Consumer Watch',
+  date: 'November 28, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=18',
+  keywords: ['car rental scams', 'self drive fraud', 'rental tricks'],
+  content: `
+    <h2>Why Scams Target First-Time Renters</h2>
+    <p>
+      Most scams rely on fear and confusion. New renters often hesitate to question damage claims or unclear charges.
+    </p>
+
+    <h2>Most Common Rental Scams</h2>
+    <ul>
+      <li>Old scratches shown as new damage.</li>
+      <li>Fuel level disputes at return.</li>
+      <li>Hidden insurance exclusions.</li>
+    </ul>
+
+    <h2>How I Protect Myself</h2>
+    <p>
+      I always record a video at pickup and drop. This single habit has saved me from false claims multiple times.
+    </p>
+
+    <p><em>
+      This content is for educational purposes only. BookMyCar.live does not provide rental services.
+    </em></p>
+  `
+},
+
+
+// ===============================
+// BLOG 5: Highway Safety Rules Every Driver Should Know
+// Purpose: Road safety education
+// SEO Intent: Informational
+// AdSense Priority: HIGH
+// ===============================
+{
+  id: '13',
+  title: 'Highway Safety Rules Every Indian Driver Should Know',
+  slug: 'highway-safety-rules',
+  excerpt: 'Indian highways demand patience and discipline. These safety rules are based on real driving experience.',
+  category: 'Safety',
+  author: 'Safety First',
+  date: 'November 15, 2023',
+  imageUrl: 'https://picsum.photos/800/400?random=13',
+  keywords: ['highway safety India', 'driving rules', 'road safety tips'],
+  content: `
+    <h2>Understanding Highway Reality</h2>
+    <p>
+      Indian highways change quickly — fast traffic, sudden diversions, and unpredictable vehicles are common.
+    </p>
+
+    <h2>Rules I Personally Follow</h2>
+    <ul>
+      <li>Maintain lane discipline at all times.</li>
+      <li>Avoid aggressive overtakes.</li>
+      <li>Take a break every 2–3 hours.</li>
+    </ul>
+
+    <h2>Night Driving Advice</h2>
+    <p>
+      High beams, stray animals, and fatigue increase risk. If tired, stop. No destination is worth an accident.
+    </p>
+
+    <p><em>
+      This guide is for informational purposes only. BookMyCar.live does not provide driving or transport services.
+    </em></p>
+  `
+},
