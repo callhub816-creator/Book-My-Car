@@ -120,8 +120,9 @@ const Home: React.FC = () => {
       <section className="py-12 bg-gray-50 border-t">
          <div className="max-w-4xl mx-auto px-4 text-center">
            <h2 className="text-xl font-bold text-gray-900 mb-3">About BookMyCar.live</h2>
-           <p className="text-gray-500 text-sm leading-relaxed">
-             BookMyCar.live is India's premier resource for self-drive enthusiasts and car renters. We provide in-depth road trip itineraries, city driving guides, and crucial information regarding traffic rules and rental regulations. Whether you are driving from Delhi to Jaipur or exploring the coastal roads of Mumbai, our expert guides ensure you have a safe and memorable journey. Browse our extensive blog to find tips on car maintenance, fuel efficiency, and avoiding rental scams.
+          <p className="text-gray-600 text-sm mt-4">
+  BookMyCar.live is an informational website offering road trip guides, car rental awareness,
+  and travel safety tips across India. We do not provide booking or rental services.
            </p>
          </div>
       </section>
