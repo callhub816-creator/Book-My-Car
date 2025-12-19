@@ -13,11 +13,15 @@ const Rules: React.FC = () => {
         </div>
 
         {/* Introduction */}
-        <div className="prose max-w-none text-gray-700 mb-12">
-          <p>
-            Renting a self-drive car in India offers freedom and flexibility, but it comes with a specific set of rules and compliance requirements. At BookMyCar.live, we believe an informed traveler is a safe traveler. Below is a comprehensive guide to the regulations you must know before booking your vehicle.
-          </p>
-        </div>
+          <div className="prose max-w-none text-gray-700 mb-12">
+            <p>
+               Renting a self-drive car in India offers freedom and flexibility, but it comes with a specific set of rules and compliance requirements. At BookMyCar.live, we believe an informed traveler is a safe traveler. Below is a comprehensive guide to the regulations you must know before booking your vehicle.
+             </p>
+          </div>
+
+              <p className="text-sm text-gray-500 italic mb-6">
+                 This page is for informational and educational purposes only. BookMyCar.live does not provide car rental or booking services.
+               </p>
 
         {/* Section 1: Documents */}
         <section className="mb-10 bg-gray-50 p-6 rounded-xl border border-gray-200">
