@@ -9,7 +9,7 @@ const bestTimeRoadTripIndia2026: BlogPost = {
   category: 'Road Trips',
   author: 'Arjun Sharma',
   date: '2026-01-05',
-  imageUrl: '/images/blogs/india-road-trip-day-vs-night-guide.png',
+  public/images/blogs/best-time-to-start-long-road-trip-india-2026.png
   keywords: [
     'Best time to start road trip India',
     'Day vs Night driving India',
