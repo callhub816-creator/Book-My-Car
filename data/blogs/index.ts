@@ -1,12 +1,11 @@
 import delhiJaipurRoadTrip from './delhiJaipurRoadTrip';
 import carRentalScamsIndia from './carRentalScamsIndia';
 import longDriveSafetyChecklist from './longDriveSafetyChecklist';
-import carRentalScamsIndia2026 from './carRentalScamsIndia2026';
-
+import bestTimeToStartLongRoadTripIndia2026 from './bestTimeToStartLongRoadTripIndia2026';
 
 export const blogPosts = [
   delhiJaipurRoadTrip,
   carRentalScamsIndia,
   longDriveSafetyChecklist,
-  carRentalScamsIndia2026,
+  bestTimeToStartLongRoadTripIndia2026,
 ];
