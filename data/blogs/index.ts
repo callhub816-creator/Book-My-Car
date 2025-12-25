@@ -7,5 +7,6 @@ import carRentalScamsIndia2026 from './carRentalScamsIndia2026';
 export const blogPosts = [
   delhiJaipurRoadTrip,
   carRentalScamsIndia,
+  carRentalScamsIndia2026,
   longDriveSafetyChecklist
 ];
